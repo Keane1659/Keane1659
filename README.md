@@ -12,3 +12,7 @@ I am a student at Concordia University, St Paul currently pursuing a Computer Sc
 - Learning GitHub
 - Taking CompTIA Certifications
 - Making a provision in AWS
+
+## Let's Connect
+- **LinkedIn**: https://www.linkedin.com/in/keane-brier-information-technology/
+- **Email**: Brierk1@csp.edu
