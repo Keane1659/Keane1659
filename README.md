@@ -7,3 +7,8 @@ I am a student at Concordia University, St Paul currently pursuing a Computer Sc
 - **Currently Learning**: Powershell
 - **Tools**: VS Code, Git, GitHub, IntelliJ
 - **Interests**: HTML, CSS, Cloud Computing, AI
+
+## What I Am Currently Working On
+- Learning GitHub
+- Taking CompTIA Certifications
+- Making a provision in AWS
