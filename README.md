@@ -21,3 +21,5 @@ I am a student at Concordia University, St Paul currently pursuing a Computer Sc
 - I have certifications in A+, Sec+, and Cloud+
 - Previously worked in the MNIT department as an intern during summer
 - Served in the United States Air Force for 4 years
+
+Thanks for Visiting my Profile!
