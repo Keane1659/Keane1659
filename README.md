@@ -2,3 +2,8 @@
 
 I am a student at Concordia University, St Paul currently pursuing a Computer Science degree. I am interested in learning coding alongside cloud computing.
 
+## Technologies & Tools
+- **Languages**: Python, Java
+- **Currently Learning**: Powershell
+- **Tools**: VS Code, Git, GitHub, IntelliJ
+- **Interests**: HTML, CSS, Cloud Computing, AI
