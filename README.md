@@ -16,3 +16,8 @@ I am a student at Concordia University, St Paul currently pursuing a Computer Sc
 ## Let's Connect
 - **LinkedIn**: https://www.linkedin.com/in/keane-brier-information-technology/
 - **Email**: Brierk1@csp.edu
+
+## Fun Facts ⚡
+- I have certifications in A+, Sec+, and Cloud+
+- Previously worked in the MNIT department as an intern during summer
+- Served in the United States Air Force for 4 years
